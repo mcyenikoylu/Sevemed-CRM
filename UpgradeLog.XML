@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Sevemed CRM">
+</Property><Property Name="Solution File" Value="C:\Documents and Settings\MCY\Desktop\Sevemed CRM-1subat2007-excelOK\Sevemed CRM.sln">
+</Property><Property Name="User Options File" Value="C:\Documents and Settings\MCY\Desktop\Sevemed CRM-1subat2007-excelOK\Sevemed CRM.suo">
+</Property><Property Name="Date" Value="01 Şubat 2008 Cuma">
+</Property><Property Name="Time" Value="10:29">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Sevemed CRM.sln" Description="File successfully backed up as C:\Documents and Settings\MCY\Desktop\Sevemed CRM-1subat2007-excelOK\Backup\Sevemed CRM.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Sevemed CRM.suo" Description="File successfully backed up as C:\Documents and Settings\MCY\Desktop\Sevemed CRM-1subat2007-excelOK\Backup\Sevemed CRM.suo">
+</Event><Event ErrorLevel="0" Project="Sevemed CRM" Source="Sevemed CRM.csproj" Description="Project file successfully backed up as C:\Documents and Settings\MCY\Desktop\Sevemed CRM-1subat2007-excelOK\Backup\Sevemed CRM.csproj">
+</Event><Event ErrorLevel="0" Project="Sevemed CRM" Source="Sevemed CRM.csproj.user" Description="Project user file successfully backed up as C:\Documents and Settings\MCY\Desktop\Sevemed CRM-1subat2007-excelOK\Backup\Sevemed CRM.csproj.user">
+</Event><Event ErrorLevel="0" Project="Sevemed CRM" Source="AssemblyInfo.cs" Description="File successfully backed up as C:\Documents and Settings\MCY\Desktop\Sevemed CRM-1subat2007-excelOK\Backup\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Sevemed CRM" Source="connection.cs" Description="File successfully backed up as C:\Documents and Settings\MCY\Desktop\Sevemed CRM-1subat2007-excelOK\Backup\connection.cs">
+</Event><Event ErrorLevel="0" Project="Sevemed CRM" Source="frm_anasayfa.cs" Description="File successfully backed up as C:\Documents and Settings\MCY\Desktop\Sevemed CRM-1subat2007-excelOK\Backup\frm_anasayfa.cs">
+</Event><Event ErrorLevel="0" Project="Sevemed CRM" Source="frm_faturaac.cs" Description="File successfully backed up as C:\Documents and Settings\MCY\Desktop\Sevemed CRM-1subat2007-excelOK\Backup\frm_faturaac.cs">
+</Event><Event ErrorLevel="0" Project="Sevemed CRM" Source="frm_faturaara.cs" Description="File successfully backed up as C:\Documents and Settings\MCY\Desktop\Sevemed CRM-1subat2007-excelOK\Backup\frm_faturaara.cs">
+</Event><Event ErrorLevel="0" Project="Sevemed CRM" Source="frm_musteriac.cs" Description="File successfully backed up as C:\Documents and Settings\MCY\Desktop\Sevemed CRM-1subat2007-excelOK\Backup\frm_musteriac.cs">
+</Event><Event ErrorLevel="0" Project="Sevemed CRM" Source="frm_musteriara.cs" Description="File successfully backed up as C:\Documents and Settings\MCY\Desktop\Sevemed CRM-1subat2007-excelOK\Backup\frm_musteriara.cs">
+</Event><Event ErrorLevel="0" Project="Sevemed CRM" Source="frm_servisac.cs" Description="File successfully backed up as C:\Documents and Settings\MCY\Desktop\Sevemed CRM-1subat2007-excelOK\Backup\frm_servisac.cs">
+</Event><Event ErrorLevel="0" Project="Sevemed CRM" Source="frm_servisara.cs" Description="File successfully backed up as C:\Documents and Settings\MCY\Desktop\Sevemed CRM-1subat2007-excelOK\Backup\frm_servisara.cs">
+</Event><Event ErrorLevel="0" Project="Sevemed CRM" Source="App.ico" Description="File successfully backed up as C:\Documents and Settings\MCY\Desktop\Sevemed CRM-1subat2007-excelOK\Backup\App.ico">
+</Event><Event ErrorLevel="0" Project="Sevemed CRM" Source="frm_anasayfa.resx" Description="File successfully backed up as C:\Documents and Settings\MCY\Desktop\Sevemed CRM-1subat2007-excelOK\Backup\frm_anasayfa.resx">
+</Event><Event ErrorLevel="0" Project="Sevemed CRM" Source="frm_faturaac.resx" Description="File successfully backed up as C:\Documents and Settings\MCY\Desktop\Sevemed CRM-1subat2007-excelOK\Backup\frm_faturaac.resx">
+</Event><Event ErrorLevel="0" Project="Sevemed CRM" Source="frm_faturaara.resx" Description="File successfully backed up as C:\Documents and Settings\MCY\Desktop\Sevemed CRM-1subat2007-excelOK\Backup\frm_faturaara.resx">
+</Event><Event ErrorLevel="0" Project="Sevemed CRM" Source="frm_musteriac.resx" Description="File successfully backed up as C:\Documents and Settings\MCY\Desktop\Sevemed CRM-1subat2007-excelOK\Backup\frm_musteriac.resx">
+</Event><Event ErrorLevel="0" Project="Sevemed CRM" Source="frm_musteriara.resx" Description="File successfully backed up as C:\Documents and Settings\MCY\Desktop\Sevemed CRM-1subat2007-excelOK\Backup\frm_musteriara.resx">
+</Event><Event ErrorLevel="0" Project="Sevemed CRM" Source="frm_servisac.resx" Description="File successfully backed up as C:\Documents and Settings\MCY\Desktop\Sevemed CRM-1subat2007-excelOK\Backup\frm_servisac.resx">
+</Event><Event ErrorLevel="0" Project="Sevemed CRM" Source="frm_servisara.resx" Description="File successfully backed up as C:\Documents and Settings\MCY\Desktop\Sevemed CRM-1subat2007-excelOK\Backup\frm_servisara.resx">
+</Event><Event ErrorLevel="0" Project="Sevemed CRM" Source="Sevemed CRM.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Sevemed CRM" Source="Sevemed CRM.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Sevemed CRM.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Sevemed CRM.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Sevemed CRM" Source="Sevemed CRM.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

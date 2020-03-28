@@ -1,0 +1,13 @@
+E:\SourceCode\Windows\Sevemed CRM-1subat2007-excelOK\obj\Debug\Sevemed CRM.csproj.ResolveComReference.cache
+E:\SourceCode\Windows\Sevemed CRM-1subat2007-excelOK\obj\Debug\Sevemed CRM.exe
+E:\SourceCode\Windows\Sevemed CRM-1subat2007-excelOK\obj\Debug\Sevemed CRM.pdb
+E:\SourceCode\Windows\Sevemed CRM-1subat2007-excelOK\bin\Debug\Sevemed CRM.exe
+E:\SourceCode\Windows\Sevemed CRM-1subat2007-excelOK\bin\Debug\Sevemed CRM.pdb
+E:\SourceCode\Windows\Sevemed CRM-1subat2007-excelOK\obj\Debug\Sevemed_CRM.frm_anasayfa.resources
+E:\SourceCode\Windows\Sevemed CRM-1subat2007-excelOK\obj\Debug\Sevemed_CRM.frm_faturaac.resources
+E:\SourceCode\Windows\Sevemed CRM-1subat2007-excelOK\obj\Debug\Sevemed_CRM.frm_faturaara.resources
+E:\SourceCode\Windows\Sevemed CRM-1subat2007-excelOK\obj\Debug\Sevemed_CRM.frm_musteriac.resources
+E:\SourceCode\Windows\Sevemed CRM-1subat2007-excelOK\obj\Debug\Sevemed_CRM.frm_musteriara.resources
+E:\SourceCode\Windows\Sevemed CRM-1subat2007-excelOK\obj\Debug\Sevemed_CRM.frm_servisac.resources
+E:\SourceCode\Windows\Sevemed CRM-1subat2007-excelOK\obj\Debug\Sevemed_CRM.frm_servisara.resources
+E:\SourceCode\Windows\Sevemed CRM-1subat2007-excelOK\obj\Debug\Sevemed CRM.csproj.GenerateResource.Cache
